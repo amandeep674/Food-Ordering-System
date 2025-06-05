@@ -21,9 +21,6 @@ This is a simple web-based food ordering system where users can create an accoun
 4. Import the SQL file located in the `SQL/` folder into your newly created database.
 5. Visit your local URL to start using the system.
 
-📺 **Need help? Watch the full setup guide on YouTube:**  
-[🔗 https://youtu.be/aBiIgUhe0Jk](https://youtu.be/aBiIgUhe0Jk)
-
 ---
 
 ## 🔐 Admin Dashboard
