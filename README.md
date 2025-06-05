@@ -1,52 +1,55 @@
-🍔 Food Ordering System
-📌 About This Project
+# 🍔 Food Ordering System
+
+## 📌 About This Project
+
 This is a simple web-based food ordering system where users can create an account, browse local restaurants, and place orders online.
 
-⚠️ Note: This project is intended for learning or academic purposes only. It is not designed for commercial or production use.
+---
 
-🖼️ Project Views
-Front-end View: User interface for browsing food items and placing orders.
+## 🖼️ Project Views
 
-Back-end View: Admin panel for managing food items, orders, and users.
+- **Front-end View**: User interface for browsing food items and placing orders.
+- **Back-end View**: Admin panel for managing food items, orders, and users.
 
-⚙️ Installation / Demo Setup
-Install XAMPP, WAMP, MAMP, or LAMP on your system.
+---
 
-Clone or download this repository to your local server directory (e.g., htdocs for XAMPP).
+## ⚙️ Installation / Demo Setup
 
-Open phpMyAdmin and create a new database.
+1. Install **XAMPP**, **WAMP**, **MAMP**, or **LAMP** on your system.
+2. Clone or download this repository to your local server directory (e.g., `htdocs` for XAMPP).
+3. Open **phpMyAdmin** and create a new database.
+4. Import the SQL file located in the `SQL/` folder into your newly created database.
+5. Visit your local URL to start using the system.
 
-Import the SQL file located in the SQL/ folder into your newly created database.
+📺 **Need help? Watch the full setup guide on YouTube:**  
+[🔗 https://youtu.be/aBiIgUhe0Jk](https://youtu.be/aBiIgUhe0Jk)
 
-Visit your local URL to start using the system.
+---
 
-📺 Need help? Watch the full setup guide on YouTube:
-🔗 https://youtu.be/aBiIgUhe0Jk
+## 🔐 Admin Dashboard
 
-🔐 Admin Dashboard
 To access the admin panel, go to:
 
-bash
-Copy
-Edit
-http://localhost/<your_root_directory>/admin/
-Admin Login Credentials:
+**Admin Login Credentials:**
+- Username: `admin`
+- Password: `1234`
 
-Username: admin
+---
 
-Password: 1234
+## 🛠️ Technologies Used
 
-🛠️ Technologies Used
-PHP
+- PHP  
+- MySQL  
+- Bootstrap 4  
+- jQuery  
+- AJAX
 
-MySQL
+---
 
-Bootstrap 4
+## 💻 System Requirements
 
-jQuery
-
-AJAX
-
-💻 System Requirements
-Any local server environment:
-XAMPP, WAMP, MAMP, or LAMP
+- Local server environment (any one of the following):
+  - XAMPP
+  - WAMP
+  - MAMP
+  - LAMP
