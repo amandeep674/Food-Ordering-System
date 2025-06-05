@@ -1,36 +1,52 @@
-# README
+🍔 Food Ordering System
+📌 About This Project
+This is a simple web-based food ordering system where users can create an account, browse local restaurants, and place orders online.
 
-## About this project?
+⚠️ Note: This project is intended for learning or academic purposes only. It is not designed for commercial or production use.
 
-This project is about ordering online food from your local restaurants. Anybody can create an account and order online. you are free to to use this project for college or school purposes. Please note that this project is not made for business or commercial purposes.
+🖼️ Project Views
+Front-end View: User interface for browsing food items and placing orders.
 
-![Front view](1.png)
+Back-end View: Admin panel for managing food items, orders, and users.
 
-![Backend view](2.png)
+⚙️ Installation / Demo Setup
+Install XAMPP, WAMP, MAMP, or LAMP on your system.
 
-## Installation or Demo
+Clone or download this repository to your local server directory (e.g., htdocs for XAMPP).
 
-Just create new database in phpmyadmin and import SQL file which is located in `SQL/` directory. If you don't know, how to setup this project on your localhost then watch this youtube video: [https://youtu.be/aBiIgUhe0Jk](https://youtu.be/aBiIgUhe0Jk)
+Open phpMyAdmin and create a new database.
 
-## Admin Dashboard
+Import the SQL file located in the SQL/ folder into your newly created database.
 
-To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **root** is your root directory
+Visit your local URL to start using the system.
 
- **Admin credentials:** Username: **admin** Password: **1234**
+📺 Need help? Watch the full setup guide on YouTube:
+🔗 https://youtu.be/aBiIgUhe0Jk
 
-## Technologies Used
+🔐 Admin Dashboard
+To access the admin panel, go to:
 
-1. PHP
-2. SQL
-3. BOOTSTRAP 4
-4. AJAX
-5. JQUERY
+bash
+Copy
+Edit
+http://localhost/<your_root_directory>/admin/
+Admin Login Credentials:
 
-## System Requirements
+Username: admin
 
-Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
+Password: 1234
 
-## Want custom PHP project?
+🛠️ Technologies Used
+PHP
 
-If you looking for specific project for your school or college then follow me on intagram and message me there. [https://www.instagram.com/code\_lone/](https://www.instagram.com/code_lone/)
+MySQL
 
+Bootstrap 4
+
+jQuery
+
+AJAX
+
+💻 System Requirements
+Any local server environment:
+XAMPP, WAMP, MAMP, or LAMP
