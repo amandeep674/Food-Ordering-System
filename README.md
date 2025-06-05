@@ -8,8 +8,10 @@ This is a simple web-based food ordering system where users can create an accoun
 
 ## 🖼️ Project Views
 
-- **Front-end View**: User interface for browsing food items and placing orders.
+- **Front-end View**: User interface for browsing food items, placing orders and checking status.
 ![Front-end Screenshot](image/1.png)
+![Front-end Screenshot 2](image/3.png)
+
 
 - **Back-end View**: Admin panel for managing food items, orders, and users.
 ![Back-end Screenshot](image/2.png)
